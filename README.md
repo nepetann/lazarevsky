@@ -1,7 +1,12 @@
-https://vk.cc/9OAGq3 - задание
+Задание:
 -
-https://repl.it/repls/TangibleForthrightColdfusion - прога онлайн
+https://vk.cc/9OAGq3
 -
+Прога онлайн:
+-
+https://repl.it/repls/TangibleForthrightColdfusion 
+-
+
 Справочное руководство NumPy:
 -
 https://pyprog.pro/short_guide.html
