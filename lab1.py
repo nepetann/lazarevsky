@@ -29,11 +29,17 @@ y = arr0[2]
 Fx = np.sum(np.cos(x)**2)/2
 # ex2
 Fxwb = np.sum(np.dot(x,w))+b
-#ex3
+# ex3
 t = [0]*n
 for i in range(n):
   t[i] = x[i]*w[i]+b
 
 Loss = np.sum((y-t)**2)
 print (Loss)
-
+# ex5
+import matplotlib.pyplot as plt
+#x = np.arange (0.1 , 10.0 , 0.01) #определенный шаг
+x = np.linspace (0.1, 10.0, 100) #количество точек
+fig, ax = plt.subplots()
+ax.plot(x,1/x)
+plt.show ()
